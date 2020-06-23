@@ -8,27 +8,27 @@
         {           
         "title": "Lab 100",
         "description": "Getting Started with Autonomous Data Warehouse (ADW) and Oracle Machine Learning (OML)",
-        "filename": "lab100/labguide100.md"
+        "filename": "./labguide100.md"
         },
         {
         "title": "Lab 200",
         "description": "Getting Started with Autonomous Data Warehouse (ADW) and Oracle Machine Learning (OML)",
-        "filename": "lab200/labguide200.md"
+        "filename": "./labguide200.md"
         },
         {
         "title": "Lab 300",
         "description": "Getting Started with Autonomous Data Warehouse (ADW) and Oracle Machine Learning (OML)",
-        "filename": "lab300/labguide300.md"
+        "filename": "./labguide300.md"
         },
         {
         "title": "Lab 400",
         "description": "Getting Started with Autonomous Data Warehouse (ADW) and Oracle Machine Learning (OML)",
-        "filename": "lab400/labguide400.md"
+        "filename": "./labguide400.md"
         },
         {
         "title": "Lab 500",
         "description": "Getting Started with Autonomous Data Warehouse (ADW) and Oracle Machine Learning (OML)",
-        "filename": "lab500/labguide500.md"
+        "filename": "./labguide500.md"
         }
     ]
 }
